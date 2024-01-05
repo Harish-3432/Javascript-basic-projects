@@ -1,0 +1,29 @@
+
+body{
+    background-color: #212121;
+}
+h1{
+    color:white;
+}
+.container{
+    display: flex;
+    text-align: center;
+   
+}
+
+#start{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: grey;
+}
+#stop{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    width: 200px;
+    border-radius: 10px;
+}
