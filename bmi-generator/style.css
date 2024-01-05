@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+}
+#name{
+    padding: 10px;
+    margin: 10px;
+}
+#height{
+    padding: 10px;
+    margin: 10px;
+}
+#weight{
+    padding: 10px;
+    margin: 10px;
+}
+#calculate{
+    padding: 10px;
+    margin: 10px;
+}
